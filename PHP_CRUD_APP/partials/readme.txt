@@ -1,0 +1,2 @@
+This is a PHP CRUD application that utilizes a SQL database. In this case I loaded the database with student data that I generated using a fake data application. 
+Created by Jeffrey Ryan Kersey 2018. 
